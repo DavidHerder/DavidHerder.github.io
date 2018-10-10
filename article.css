@@ -1,0 +1,48 @@
+*{
+  font-family: 'Libre Barcode 39', cursive;
+}
+body{
+  font-size: 18px;
+  font-family: sans-serif;
+  background-color: white;
+
+}
+h1{
+  color:red;
+  font-size: 40px;
+  font-family: ;
+}
+article{
+  padding: 20px 30px;
+  margin: 20px auto;
+}
+figure{
+  padding:0px;
+  margin: 0px;
+}
+img{
+  max-width: 100%;
+
+}
+.byline{
+  font-size: 12;
+  color: grey;
+  padding-left: 10px;
+  max-width: 100%;
+}
+.dateline{
+  font-size: 8px;
+  color: grey;
+  padding-left: 10px;
+  max-width: 100%;
+}
+figure p {
+  color:grey;
+  max-width: 100%;
+  font-size: 12px;
+
+}
+
+byline
+dateline
+caption
