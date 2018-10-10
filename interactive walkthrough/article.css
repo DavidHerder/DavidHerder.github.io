@@ -10,7 +10,7 @@ body{
 h1{
   color:red;
   font-size: 40px;
-  font-family: ;
+  font-family:serif ;
 }
 article{
   padding: 20px 30px;
@@ -27,13 +27,13 @@ img{
 .byline{
   font-size: 12;
   color: grey;
-  padding-left: 10px;
+  padding: 2px 10px;
   max-width: 100%;
 }
 .dateline{
   font-size: 8px;
   color: grey;
-  padding-left: 10px;
+  padding: 2px 10px;
   max-width: 100%;
 }
 figure p {
