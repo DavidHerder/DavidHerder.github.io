@@ -1,40 +1,53 @@
-body{
-  font-size: 18px;
-  background-color: white;
-
-}
 h1{
-  color:red;
-  font-size: 40px;
-
-}
-article{
-
-}
-figure{
-
-}
-img{
-  max-width: 100%;
-
+Font-size: 26px;
+padding-bottom:0px;
+padding-top:20px;
+margin-bottom:5px;
 }
 .byline{
-  font-size: 12;
-  color: grey;
+color:gray;
+padding-top:0px;
+padding-bottom:0px;
+margin-top:0px;
+margin-bottom:0px;
+font-weight:normal;
+
+
 }
 .dateline{
-  font-size: 8px;
-  color: grey;
+color:gray;
+Font-size:12px;
+border-bottom-width: 3px;
+border-color:orange;
+padding-top:0px;
+padding-bottom:0px;
+margin-top:0px;
+margin-bottom:0px;
 
-  max-width: 100%;
 }
-figure p {
-  color:grey;
-  max-width: 100%;
-  font-size: 12px;
+p{
+  font-size: 16px;
 
 }
-
-byline
-dateline
-caption
+a{
+  color:blue;
+}
+figure p{
+  font-size:12px;
+  color:gray;
+}
+figure{
+  padding-top:0px;
+  margin-top: 0px;
+  padding-bottom: 0px;
+  margin-bottom:10px;
+}
+image{
+  max-width:90%;
+  margin: 0px;
+  padding-bottom:5px;
+}
+header{
+  margin-bottom:10px;
+  padding-bottom:10px;
+}
