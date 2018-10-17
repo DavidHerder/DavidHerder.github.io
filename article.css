@@ -4,6 +4,8 @@ padding-bottom:0px;
 padding-top:20px;
 margin-bottom:5px;
 color:black;
+Font-family: 'Source Serif Pro', serif;
+font-weight: bold;
 }
 .byline{
 color:gray;
@@ -11,8 +13,7 @@ padding-top:0px;
 padding-bottom:0px;
 margin-top:0px;
 margin-bottom:0px;
-font-weight:normal;
-
+Font-family: 'Source Serif Pro', serif;font-weight: light;
 
 }
 .dateline{
@@ -24,10 +25,13 @@ padding-top:0px;
 padding-bottom:0px;
 margin-top:0px;
 margin-bottom:0px;
-
+Font-family: 'Source Serif Pro', serif;
+font-weight: normal;
+kearning: 150%;
 }
 p{
   font-size: 16px;
+  font-family: "Lato", sans-serif;
 
 }
 a{
@@ -41,7 +45,7 @@ figure{
   padding-top:0px;
   margin-top: 0px;
   padding-bottom: 0px;
-  margin-bottom:10px;
+  margin-bottom:0px;
 }
 image{
   max-width:90%;
